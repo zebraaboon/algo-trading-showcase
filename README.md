@@ -52,17 +52,6 @@ I build **multi-exchange algorithmic trading systems** in Python. My own system:
 └──────────────┘                          └──────────────┘
 ```
 
-## Contact
-
-**Upwork**: [upwork.com/freelancers/~01a24749cb521283a8](https://www.upwork.com/freelancers/~01a24749cb521283a8)
-
-Available for:
-- Custom trading bot development
-- Exchange API integration
-- ML model training and validation
-- Backtesting frameworks
-- Real-time data pipelines
-
 ## License
 
 These code samples are provided for demonstration purposes. Not financial advice.
