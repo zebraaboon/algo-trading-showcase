@@ -5,7 +5,7 @@ Demonstrates:
 - Async WebSocket connection management with exponential backoff
 - Efficient order book maintenance (incremental updates)
 - Heartbeat monitoring and stale data detection
-- Production-grade error handling (never crashes)
+- Error handling that keeps the feed loop running on bad messages
 
 This is a sanitised example from a system processing 60 concurrent feeds.
 """
