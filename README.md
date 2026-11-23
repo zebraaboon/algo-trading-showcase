@@ -1,11 +1,11 @@
 # Algorithmic Trading Toolkit - Code Samples
 
 > Building blocks for cryptocurrency trading systems.
-> These are sanitised examples from my production platform (98,000+ lines, 6 exchanges, 60 real-time feeds).
+> These are sanitised examples from my own trading research platform (98,000+ lines, 6 exchanges, 60 real-time feeds).
 
 ## About Me
 
-I build **multi-exchange algorithmic trading systems** in Python. My production system:
+I build **multi-exchange algorithmic trading systems** in Python. My own system:
 
 - Processes **60 real-time L2 order book feeds** across 6 exchanges (Coinbase, Binance, Kraken, Bybit, OKX, Bitstamp)
 - Trains **XGBoost ML models** on 18M+ candles with walk-forward validation

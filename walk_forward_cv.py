@@ -8,7 +8,6 @@ Demonstrates:
 - Multi-window evaluation with statistical aggregation
 - Production-ready model training pipeline
 
-This approach validated across 4,000+ windows with median Sortino 5.6-8.2.
 """
 
 import logging
